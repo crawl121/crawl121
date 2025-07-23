@@ -13,5 +13,5 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=crawl121&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=crawl121&theme=dracula&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=crawl121&theme=dracula&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=crawl121&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
