@@ -13,3 +13,4 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=crawl121&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide_border=false&custom_title=Crawl%27s%20Stats&token=github_pat_11BHNX2PA0Wy1Dvl2DDj33_O8jCvStFDk066tC5lzQmwcEhE59gidqR)
+![crawl121's GitHub stats](https://github-readme-stats.vercel.app/api?username=crawl121&show_icons=true&theme=transparent)
